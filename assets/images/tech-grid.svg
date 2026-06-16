@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" fill="none">
+<g opacity=".34" stroke="#4E8EFF" stroke-width="1">
+<path d="M0 150h180l40-40h120M0 560h120l58-58h160M1200 120h-150l-45 45H900M1200 600h-180l-60-60H840"/>
+<path d="M90 0v90l38 38v105M1090 800V670l-42-42V500M330 800V690l30-30V540M790 0v100l-35 35v115"/>
+</g>
+<g fill="#24D6E7" opacity=".35"><circle cx="180" cy="150" r="4"/><circle cx="338" cy="560" r="4"/><circle cx="1050" cy="120" r="4"/><circle cx="1020" cy="600" r="4"/><circle cx="90" cy="90" r="4"/><circle cx="1090" cy="670" r="4"/></g>
+<g opacity=".16" fill="#8B5CF6"><rect x="65" y="320" width="7" height="7" rx="1"/><rect x="86" y="320" width="7" height="7" rx="1"/><rect x="107" y="320" width="7" height="7" rx="1"/><rect x="1020" y="305" width="7" height="7" rx="1"/><rect x="1041" y="305" width="7" height="7" rx="1"/><rect x="1062" y="305" width="7" height="7" rx="1"/></g>
+<g opacity=".11" stroke="#8CB6FF"><path d="M0 260h120M1080 420h120M540 0v80M640 720v80"/></g>
+</svg>

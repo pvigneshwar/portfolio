@@ -1,0 +1,17 @@
+GITHUB PAGES UPLOAD INSTRUCTIONS
+
+1. Extract Vigneshwar_Project_Portfolio_Responsive.zip.
+2. Open the extracted Vigneshwar_Project_Portfolio_Responsive folder.
+3. Upload everything INSIDE it to the root of your GitHub repository.
+4. Confirm the repository root contains:
+   index.html
+   alias-x.html
+   smart-usb-guardian.html
+   retail-decision-intelligence.html
+   text-steganography.html
+   assets/
+   .nojekyll
+5. In GitHub: Settings > Pages > Deploy from a branch > main > /(root).
+6. Wait for deployment, then open the website in Android Chrome and refresh.
+
+The HTML files use ?v=responsive-3 on CSS and JavaScript URLs to prevent Android Chrome from reusing the older cached files.

@@ -1,0 +1,24 @@
+VIGNESHWAR P PORTFOLIO — RESPONSIVE VALIDATION REPORT
+
+HTML pages checked: 5
+Missing local references: 0
+Duplicate IDs: 0
+
+JavaScript syntax:
+- main.js: PASS
+- project.js: PASS
+
+Responsive checks:
+- mobile_sticky_header: PASS
+- natural_profile_aspect_ratio: PASS
+- profile_object_fit_contain: PASS
+- mobile_content_visibility: PASS
+- mobile_orbits_disabled: PASS
+- project_mobile_order: PASS
+- cache_busting_all_pages: PASS
+
+Missing references:
+- None
+
+Duplicate IDs:
+- None

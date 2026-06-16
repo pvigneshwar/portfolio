@@ -1,0 +1,21 @@
+VIGNESHWAR P PORTFOLIO — WINDOWS + ANDROID RESPONSIVE FIX
+
+Replaced files:
+- assets/css/main.css
+- assets/css/project.css
+- assets/js/main.js
+- assets/js/project.js
+- all HTML pages (cache-version query and menu accessibility attributes)
+
+Main corrections:
+- Mobile header is sticky and occupies normal layout space, preventing content overlap.
+- Mobile navigation opens below the header and locks background scrolling.
+- Mobile hero uses a clean single-column order: text, buttons, social links, then image.
+- Profile frame now uses the source image's natural aspect ratio instead of fixed heights.
+- The complete head, body and shoes remain visible through object-fit: contain.
+- Android hides decorative orbit graphics, scans, parallax and blur effects.
+- Below-the-fold sections use content-visibility to reduce Android rendering work.
+- Desktop keeps the full two-column hero, HUD labels and animations.
+- Tablet and landscape-phone layouts receive dedicated breakpoints.
+- Project pages use the same adaptive header and responsive content flow.
+- CSS and JS include cache-busting version query strings to avoid stale GitHub Pages files.

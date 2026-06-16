@@ -1,0 +1,18 @@
+DARK THEME AND ANIMATION UPDATE
+
+Changes included:
+- Complete dark navy/charcoal theme across the main portfolio and all project pages.
+- Lightweight local technical circuit/grid SVG background.
+- One-time opening boot animation with a CSS fallback so it cannot block the site.
+- Animated desktop section guide with active-section highlighting.
+- Scroll progress indicator and active navigation highlighting.
+- Hero orbit graphics, HUD skill labels, scan effect and desktop-only pointer parallax.
+- Skill-card SVG graphics and numbered technical card styling.
+- Dark project cards, workflow cards, buttons, header, contact and timeline sections.
+- Mobile animations simplified; orbit, scan, hover lift and parallax are disabled on Android-sized screens.
+- WebP responsive images retained for fast loading.
+- Reduced-motion support retained.
+- All local references validated.
+
+
+Latest update: added lighter Android/mobile rendering mode, disabled costly background effects on low-power devices, skipped boot animation on mobile, and changed profile images to object-fit: contain so the top of the head is not cropped.
