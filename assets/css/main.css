@@ -241,3 +241,27 @@ body.lite-ui .section{padding:68px 0}
 @media(max-width:360px){
   .hero h1{font-size:clamp(2.45rem,12.5vw,2.8rem)}
 }
+/* Windows/Desktop profile-image fit */
+@media (min-width: 931px) {
+    .hero-visual {
+        min-height: 720px;
+    }
+
+    .hero-frame {
+        width: min(390px, 36vw);
+        height: auto !important;
+        aspect-ratio: 760 / 1350;
+        margin-inline: auto;
+        overflow: hidden;
+        border-radius: 34px;
+    }
+
+    .hero-frame img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        padding: 0 !important;
+        object-fit: cover;
+        object-position: center center;
+    }
+}
